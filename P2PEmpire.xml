@@ -2,175 +2,175 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://p2pempire.com/en/newsfeed</id>
   <title>P2P Empire</title>
-  <updated>2023-08-20T18:13:06.535485+00:00</updated>
+  <updated>2023-08-21T00:53:02.225608+00:00</updated>
   <link href="https://p2pempire.com/en/newsfeed" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <entry>
-    <id>Former CEO filed a privacy complaint against P2P Empire - 2023-08-15T00:00:00Z</id>
-    <title>Former CEO filed a privacy complaint against P2P Empire</title>
-    <updated>2023-08-20T18:13:06.538271+00:00</updated>
-    <content>Former CEO of Twino, Anastasija Oleinika filed a privacy complaint against an interview we recorded in May 2021. She wished to be no longer associated with the content as she left the company.</content>
-    <link href="/en/review/twino" rel="alternate"/>
-    <published>2023-08-15T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>Issues with the allocation of funds from Vivus, Mexico - 2023-08-08T00:00:00Z</id>
-    <title>Issues with the allocation of funds from Vivus, Mexico</title>
-    <updated>2023-08-20T18:13:06.538147+00:00</updated>
-    <content>Income Marketplace reported that the allocated funds from Vivus have been carried out prematurely due to data discrepancies. The team has been rolling back the transfers, which may have resulted in negative balances on customer accounts. The platform is working on resolving the issues.</content>
-    <link href="/en/review/income" rel="alternate"/>
-    <published>2023-08-08T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>InRento's mailing system is being mantained - 2023-08-08T00:00:00Z</id>
-    <title>InRento's mailing system is being mantained</title>
-    <updated>2023-08-20T18:13:06.538022+00:00</updated>
-    <content>Due to the scheduled mailing service maintenance, investors might be experiencing issues with email notifications. The system should by updated by the end of next business week.</content>
-    <link href="/en/review/inrento" rel="alternate"/>
-    <published>2023-08-08T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>PeerBerry has launched a news section - 2023-08-08T00:00:00Z</id>
-    <title>PeerBerry has launched a news section</title>
-    <updated>2023-08-20T18:13:06.537897+00:00</updated>
-    <content>The p2p lending marketplace launched a notification feature for its desktop version.</content>
+    <id>PeerBerry repays € 1.8 M in war-affected loans - 2023-08-16T00:00:00Z</id>
+    <title>PeerBerry repays € 1.8 M in war-affected loans</title>
+    <updated>2023-08-21T00:53:02.227985+00:00</updated>
+    <content>PeerBerry's business partners repaid another €1.8 M in war-affected loans from Ukraine and Russia. PeerBerry business partners have already repaid EUR 44,58 million, or 89% of the total war-affected obligations towards PeerBerry investors. Aventus Group is yet to repay €2,908,989, whereas the remaining obligation by Gofingo Group is higher at €4,380,834..</content>
     <link href="/en/review/peerberry" rel="alternate"/>
-    <published>2023-08-08T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>Crowdpear launched a news section - 2023-08-08T00:00:00Z</id>
-    <title>Crowdpear launched a news section</title>
-    <updated>2023-08-20T18:13:06.537772+00:00</updated>
-    <content>The crowdlending platform launched a notification feature for its desktop version.</content>
-    <link href="/en/review/crowdpear" rel="alternate"/>
-    <published>2023-08-08T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>Esketit shares information about how to handle potential investment risk - 2023-08-08T00:00:00Z</id>
-    <title>Esketit shares information about how to handle potential investment risk</title>
-    <updated>2023-08-20T18:13:06.537647+00:00</updated>
-    <content>Esketit released a statement about how the platform aims to deal with potential investment risk. In a follow-up message, the CEO confirmed that, currently, there is nothing that investors should be worried about. The platform is proactive to ensure that if certain risks materialize, they are being handled according to investors' expectations.</content>
-    <link href="/en/review/esketit" rel="alternate"/>
-    <published>2023-08-08T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>Lendermarket allows the investment of "pending payments" - 2023-08-05T00:00:00Z</id>
-    <title>Lendermarket allows the investment of "pending payments"</title>
-    <updated>2023-08-20T18:13:06.537523+00:00</updated>
-    <content>The P2P marketplace enables investors to invest pending payments in the currently available loans. Pending payments are funds that are not available for withdrawal as the platform doesn't dispose of the funds.</content>
-    <link href="/en/review/lendermarket" rel="alternate"/>
-    <published>2023-08-05T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>Celsius founder Alex Mashinsky arrested and charged with fraud - 2023-07-15T00:00:00Z</id>
-    <title>Celsius founder Alex Mashinsky arrested and charged with fraud</title>
-    <updated>2023-08-20T18:13:06.537399+00:00</updated>
-    <content>Alex Mashinsky, the founder of bankrupt cryptocurrency lender Celsius Network, has been arrested by US authorities and charged with fraud and market manipulation.</content>
-    <link href="https://www.ft.com/content/f58b1a33-3610-4cd5-b1ce-95c2ee1a1f7a" rel="alternate"/>
-    <published>2023-07-15T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>PeerBerry repaid €42.65 M in war-affected loans - 2023-07-17T00:00:00Z</id>
-    <title>PeerBerry repaid €42.65 M in war-affected loans</title>
-    <updated>2023-08-20T18:13:06.537274+00:00</updated>
-    <content>PeerBerry's business partners repaid another €1,8 M in war-affected loans from Ukraine and Russia. PeerBerry business partners have already repaid EUR 42,65 million, or 85% of the total war-affected obligations towards PeerBerry investors.</content>
-    <link href="/en/review/peerberry" rel="alternate"/>
-    <published>2023-07-17T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>Vivus Mexico is moving to a new direct listing structure - 2023-07-17T00:00:00Z</id>
-    <title>Vivus Mexico is moving to a new direct listing structure</title>
-    <updated>2023-08-20T18:13:06.537148+00:00</updated>
-    <content>The Mexican lending company Vivus will be listing short-term loans from Mexico under a new direct listing structure.  This process has taken more time than anticipated, mainly due to IT bottlenecks on Vivus' side, and it looks like it will not be resolved in the very near future. Vivus won't be listing any new loans until the new structure is in place. The lender informed the Income Marketplace that it will clear all late loans by the 21. July 2023.</content>
-    <link href="/en/review/income" rel="alternate"/>
-    <published>2023-07-17T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>rethink-p2p reports about the questionable practices of the failed p2p platform Credon and the connection to Hive5 - 2023-07-19T00:00:00Z</id>
-    <title>rethink-p2p reports about the questionable practices of the failed p2p platform Credon and the connection to Hive5</title>
-    <updated>2023-08-20T18:13:06.537022+00:00</updated>
-    <content>The German rethink-p2p.de page reports on the harmful practices of Credon and the connection of the shareholder to Hive5's business partner. The Croatian Hive5 platform is threatening to take legal action against the author of rethink-p2p.de for the revelations of questionable practices by the shareholder of Credon and business partner of Hive5, Juozas Rupšys.</content>
-    <link href="https://rethink-p2p.de/en/credon-review/" rel="alternate"/>
-    <published>2023-07-19T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>Lendermarket introduced "pending payments" - 2023-07-19T00:00:00Z</id>
-    <title>Lendermarket introduced "pending payments"</title>
-    <updated>2023-08-20T18:13:06.536894+00:00</updated>
-    <content>When a Loan Originator notifies Lendermarket of a borrower's repayment, a "Pending Payment" status is assigned. At this point, Lendermarket has only received notice of the upcoming transfer. Lendermarket is still waiting for the Loan Originator to complete the transfer to Lendermarket.</content>
-    <link href="/en/review/lendermarket" rel="alternate"/>
-    <published>2023-07-19T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>Capitalia will withold 20% income tax - 2023-07-21T00:00:00Z</id>
-    <title>Capitalia will withold 20% income tax</title>
-    <updated>2023-08-20T18:13:06.536766+00:00</updated>
-    <content>Starting from the 1st of September of this year, Capitalia will deduct a 20% personal income tax from the income received by investors - interest and late payment fees. Going forward, investors will receive the full principal amount of their loans and 80% of the total interest and late payment fees.</content>
-    <link href="/en/review/capitalia" rel="alternate"/>
-    <published>2023-07-21T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>Heavy Finance received the ECSP license - 2023-07-26T00:00:00Z</id>
-    <title>Heavy Finance received the ECSP license</title>
-    <updated>2023-08-20T18:13:06.536639+00:00</updated>
-    <content>Heavy Finance received the European Service Providers licenses issued by the European Securities and Markets Authority (ESMA). This license provides enhanced investor protection.</content>
-    <link href="/en/review/heavy-finance" rel="alternate"/>
-    <published>2023-07-26T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>Crowdpear received the ESCP license - 2023-07-27T00:00:00Z</id>
-    <title>Crowdpear received the ESCP license</title>
-    <updated>2023-08-20T18:13:06.536512+00:00</updated>
-    <content>Crowdpear became an EU-level regulated crowdfunding platform that enables the platform to provide services throughout the EU.</content>
-    <link href="/en/review/crowdpear" rel="alternate"/>
-    <published>2023-07-27T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>Reinvest24 replaced management in Spain due to poor portfolio performance - 2023-07-28T00:00:00Z</id>
-    <title>Reinvest24 replaced management in Spain due to poor portfolio performance</title>
-    <updated>2023-08-20T18:13:06.536384+00:00</updated>
-    <content>Reinvest24 is undergoing several changes in its Spanish branch. The management and its business partners, such as the construction company and real estate agency, are about to be replaced. As a result of the ongoing challenges, Reinvest24 has stopped listing investment opportunities from Spain until the portfolio quality is improved.</content>
-    <link href="/en/review/reinvest24" rel="alternate"/>
-    <published>2023-07-28T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>Cash Drag on Income - 2023-07-31T00:00:00Z</id>
-    <title>Cash Drag on Income</title>
-    <updated>2023-08-20T18:13:06.536252+00:00</updated>
-    <content>Income Marketplace reports low loan availability due to the season and changes in investment structures from larger lending companies. Investors should explore other top-rated platforms to get their funds invested.</content>
-    <link href="/en/review/income" rel="alternate"/>
-    <published>2023-07-31T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>Debitum changes owners and removes DEB token features - 2023-07-28T00:00:00Z</id>
-    <title>Debitum changes owners and removes DEB token features</title>
-    <updated>2023-08-20T18:13:06.536121+00:00</updated>
-    <content>The legal entity behind Debitum platform, DN Operator changes ownership from Mārtiņš Liberts to Henrijs Jansons, Ingus Salmiņš and Ēriks Reņģītis. The former management of Debitum Network raised over € 6 Million worth of DEB tokens to fund the platform's development. The new leadership distances itself from the DEB token and removes it from the platform, claiming the legal entity behind Debitum platform doesn't have any connection to the Token Generation Event conducted by the previous management.</content>
-    <link href="/en/review/debitum-network" rel="alternate"/>
-    <published>2023-07-28T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>P2P Empire recorded an exclusive interview with the CEO of Fintown - 2023-08-16T00:00:00Z</id>
-    <title>P2P Empire recorded an exclusive interview with the CEO of Fintown</title>
-    <updated>2023-08-20T18:13:06.535982+00:00</updated>
-    <content>Members of P2P Empire can enjoy our exclusive interview with the founder and CEO of Fintown. We have covered the business model, liquidity management, risks, and plans for the platform.</content>
-    <link href="https://www.buymeacoffee.com/p2pempire/interview-ceo-fintown" rel="alternate"/>
     <published>2023-08-16T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>Investors report issues with buyback guarantee from FastFinance - 2023-08-16T00:00:00Z</id>
     <title>Investors report issues with buyback guarantee from FastFinance</title>
-    <updated>2023-08-20T18:13:06.535815+00:00</updated>
+    <updated>2023-08-21T00:53:02.227879+00:00</updated>
     <content>Investors report delays with the lender FastFinance. The buyback guarantee hasn't been triggered. The support claims it's a technical issue.</content>
     <link href="/en/review/iuvo-group" rel="alternate"/>
     <published>2023-08-16T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>PeerBerry repays € 1.8 M in war-affected loans - 2023-08-16T00:00:00Z</id>
-    <title>PeerBerry repays € 1.8 M in war-affected loans</title>
-    <updated>2023-08-20T18:13:06.535549+00:00</updated>
-    <content>PeerBerry's business partners repaid another €1.8 M in war-affected loans from Ukraine and Russia. PeerBerry business partners have already repaid EUR 44,58 million, or 89% of the total war-affected obligations towards PeerBerry investors. Aventus Group is yet to repay €2,908,989, whereas the remaining obligation by Gofingo Group is higher at €4,380,834..</content>
-    <link href="/en/review/peerberry" rel="alternate"/>
+    <id>P2P Empire recorded an exclusive interview with the CEO of Fintown - 2023-08-16T00:00:00Z</id>
+    <title>P2P Empire recorded an exclusive interview with the CEO of Fintown</title>
+    <updated>2023-08-21T00:53:02.227772+00:00</updated>
+    <content>Members of P2P Empire can enjoy our exclusive interview with the founder and CEO of Fintown. We have covered the business model, liquidity management, risks, and plans for the platform.</content>
+    <link href="https://www.buymeacoffee.com/p2pempire/interview-ceo-fintown" rel="alternate"/>
     <published>2023-08-16T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>Debitum changes owners and removes DEB token features - 2023-07-28T00:00:00Z</id>
+    <title>Debitum changes owners and removes DEB token features</title>
+    <updated>2023-08-21T00:53:02.227664+00:00</updated>
+    <content>The legal entity behind Debitum platform, DN Operator changes ownership from Mārtiņš Liberts to Henrijs Jansons, Ingus Salmiņš and Ēriks Reņģītis. The former management of Debitum Network raised over € 6 Million worth of DEB tokens to fund the platform's development. The new leadership distances itself from the DEB token and removes it from the platform, claiming the legal entity behind Debitum platform doesn't have any connection to the Token Generation Event conducted by the previous management.</content>
+    <link href="/en/review/debitum-network" rel="alternate"/>
+    <published>2023-07-28T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>Cash Drag on Income - 2023-07-31T00:00:00Z</id>
+    <title>Cash Drag on Income</title>
+    <updated>2023-08-21T00:53:02.227557+00:00</updated>
+    <content>Income Marketplace reports low loan availability due to the season and changes in investment structures from larger lending companies. Investors should explore other top-rated platforms to get their funds invested.</content>
+    <link href="/en/review/income" rel="alternate"/>
+    <published>2023-07-31T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>Reinvest24 replaced management in Spain due to poor portfolio performance - 2023-07-28T00:00:00Z</id>
+    <title>Reinvest24 replaced management in Spain due to poor portfolio performance</title>
+    <updated>2023-08-21T00:53:02.227450+00:00</updated>
+    <content>Reinvest24 is undergoing several changes in its Spanish branch. The management and its business partners, such as the construction company and real estate agency, are about to be replaced. As a result of the ongoing challenges, Reinvest24 has stopped listing investment opportunities from Spain until the portfolio quality is improved.</content>
+    <link href="/en/review/reinvest24" rel="alternate"/>
+    <published>2023-07-28T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>Crowdpear received the ESCP license - 2023-07-27T00:00:00Z</id>
+    <title>Crowdpear received the ESCP license</title>
+    <updated>2023-08-21T00:53:02.227343+00:00</updated>
+    <content>Crowdpear became an EU-level regulated crowdfunding platform that enables the platform to provide services throughout the EU.</content>
+    <link href="/en/review/crowdpear" rel="alternate"/>
+    <published>2023-07-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>Heavy Finance received the ECSP license - 2023-07-26T00:00:00Z</id>
+    <title>Heavy Finance received the ECSP license</title>
+    <updated>2023-08-21T00:53:02.227214+00:00</updated>
+    <content>Heavy Finance received the European Service Providers licenses issued by the European Securities and Markets Authority (ESMA). This license provides enhanced investor protection.</content>
+    <link href="/en/review/heavy-finance" rel="alternate"/>
+    <published>2023-07-26T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>Capitalia will withold 20% income tax - 2023-07-21T00:00:00Z</id>
+    <title>Capitalia will withold 20% income tax</title>
+    <updated>2023-08-21T00:53:02.227108+00:00</updated>
+    <content>Starting from the 1st of September of this year, Capitalia will deduct a 20% personal income tax from the income received by investors - interest and late payment fees. Going forward, investors will receive the full principal amount of their loans and 80% of the total interest and late payment fees.</content>
+    <link href="/en/review/capitalia" rel="alternate"/>
+    <published>2023-07-21T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>Lendermarket introduced "pending payments" - 2023-07-19T00:00:00Z</id>
+    <title>Lendermarket introduced "pending payments"</title>
+    <updated>2023-08-21T00:53:02.227001+00:00</updated>
+    <content>When a Loan Originator notifies Lendermarket of a borrower's repayment, a "Pending Payment" status is assigned. At this point, Lendermarket has only received notice of the upcoming transfer. Lendermarket is still waiting for the Loan Originator to complete the transfer to Lendermarket.</content>
+    <link href="/en/review/lendermarket" rel="alternate"/>
+    <published>2023-07-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>rethink-p2p reports about the questionable practices of the failed p2p platform Credon and the connection to Hive5 - 2023-07-19T00:00:00Z</id>
+    <title>rethink-p2p reports about the questionable practices of the failed p2p platform Credon and the connection to Hive5</title>
+    <updated>2023-08-21T00:53:02.226894+00:00</updated>
+    <content>The German rethink-p2p.de page reports on the harmful practices of Credon and the connection of the shareholder to Hive5's business partner. The Croatian Hive5 platform is threatening to take legal action against the author of rethink-p2p.de for the revelations of questionable practices by the shareholder of Credon and business partner of Hive5, Juozas Rupšys.</content>
+    <link href="https://rethink-p2p.de/en/credon-review/" rel="alternate"/>
+    <published>2023-07-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>Vivus Mexico is moving to a new direct listing structure - 2023-07-17T00:00:00Z</id>
+    <title>Vivus Mexico is moving to a new direct listing structure</title>
+    <updated>2023-08-21T00:53:02.226785+00:00</updated>
+    <content>The Mexican lending company Vivus will be listing short-term loans from Mexico under a new direct listing structure.  This process has taken more time than anticipated, mainly due to IT bottlenecks on Vivus' side, and it looks like it will not be resolved in the very near future. Vivus won't be listing any new loans until the new structure is in place. The lender informed the Income Marketplace that it will clear all late loans by the 21. July 2023.</content>
+    <link href="/en/review/income" rel="alternate"/>
+    <published>2023-07-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>PeerBerry repaid €42.65 M in war-affected loans - 2023-07-17T00:00:00Z</id>
+    <title>PeerBerry repaid €42.65 M in war-affected loans</title>
+    <updated>2023-08-21T00:53:02.226675+00:00</updated>
+    <content>PeerBerry's business partners repaid another €1,8 M in war-affected loans from Ukraine and Russia. PeerBerry business partners have already repaid EUR 42,65 million, or 85% of the total war-affected obligations towards PeerBerry investors.</content>
+    <link href="/en/review/peerberry" rel="alternate"/>
+    <published>2023-07-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>Celsius founder Alex Mashinsky arrested and charged with fraud - 2023-07-15T00:00:00Z</id>
+    <title>Celsius founder Alex Mashinsky arrested and charged with fraud</title>
+    <updated>2023-08-21T00:53:02.226566+00:00</updated>
+    <content>Alex Mashinsky, the founder of bankrupt cryptocurrency lender Celsius Network, has been arrested by US authorities and charged with fraud and market manipulation.</content>
+    <link href="https://www.ft.com/content/f58b1a33-3610-4cd5-b1ce-95c2ee1a1f7a" rel="alternate"/>
+    <published>2023-07-15T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>Lendermarket allows the investment of "pending payments" - 2023-08-05T00:00:00Z</id>
+    <title>Lendermarket allows the investment of "pending payments"</title>
+    <updated>2023-08-21T00:53:02.226458+00:00</updated>
+    <content>The P2P marketplace enables investors to invest pending payments in the currently available loans. Pending payments are funds that are not available for withdrawal as the platform doesn't dispose of the funds.</content>
+    <link href="/en/review/lendermarket" rel="alternate"/>
+    <published>2023-08-05T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>Esketit shares information about how to handle potential investment risk - 2023-08-08T00:00:00Z</id>
+    <title>Esketit shares information about how to handle potential investment risk</title>
+    <updated>2023-08-21T00:53:02.226348+00:00</updated>
+    <content>Esketit released a statement about how the platform aims to deal with potential investment risk. In a follow-up message, the CEO confirmed that, currently, there is nothing that investors should be worried about. The platform is proactive to ensure that if certain risks materialize, they are being handled according to investors' expectations.</content>
+    <link href="/en/review/esketit" rel="alternate"/>
+    <published>2023-08-08T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>Crowdpear launched a news section - 2023-08-08T00:00:00Z</id>
+    <title>Crowdpear launched a news section</title>
+    <updated>2023-08-21T00:53:02.226235+00:00</updated>
+    <content>The crowdlending platform launched a notification feature for its desktop version.</content>
+    <link href="/en/review/crowdpear" rel="alternate"/>
+    <published>2023-08-08T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>PeerBerry has launched a news section - 2023-08-08T00:00:00Z</id>
+    <title>PeerBerry has launched a news section</title>
+    <updated>2023-08-21T00:53:02.226122+00:00</updated>
+    <content>The p2p lending marketplace launched a notification feature for its desktop version.</content>
+    <link href="/en/review/peerberry" rel="alternate"/>
+    <published>2023-08-08T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>InRento's mailing system is being mantained - 2023-08-08T00:00:00Z</id>
+    <title>InRento's mailing system is being mantained</title>
+    <updated>2023-08-21T00:53:02.226005+00:00</updated>
+    <content>Due to the scheduled mailing service maintenance, investors might be experiencing issues with email notifications. The system should by updated by the end of next business week.</content>
+    <link href="/en/review/inrento" rel="alternate"/>
+    <published>2023-08-08T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>Issues with the allocation of funds from Vivus, Mexico - 2023-08-08T00:00:00Z</id>
+    <title>Issues with the allocation of funds from Vivus, Mexico</title>
+    <updated>2023-08-21T00:53:02.225879+00:00</updated>
+    <content>Income Marketplace reported that the allocated funds from Vivus have been carried out prematurely due to data discrepancies. The team has been rolling back the transfers, which may have resulted in negative balances on customer accounts. The platform is working on resolving the issues.</content>
+    <link href="/en/review/income" rel="alternate"/>
+    <published>2023-08-08T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>Former CEO filed a privacy complaint against P2P Empire - 2023-08-15T00:00:00Z</id>
+    <title>Former CEO filed a privacy complaint against P2P Empire</title>
+    <updated>2023-08-21T00:53:02.225659+00:00</updated>
+    <content>Former CEO of Twino, Anastasija Oleinika filed a privacy complaint against an interview we recorded in May 2021. She wished to be no longer associated with the content as she left the company.</content>
+    <link href="/en/review/twino" rel="alternate"/>
+    <published>2023-08-15T00:00:00+00:00</published>
   </entry>
 </feed>
