@@ -57,7 +57,10 @@ def parse_html(html_content):
         date_str = box.find('div', class_='news-date').span.text.strip()
         title = box.find('h2').text.strip()
         paragraph = box.find('p').text.strip()
-        link = box.find('a', href=True)['href']
+        if box.find('a', href=True):
+            link = box.find('a', href=True)['href']
+        else:
+            link = 'https://p2pempire.com/en/newsfeed'
         date = datetime.strptime(date_str, "%d. %B %Y")
         date = date.replace(tzinfo=pytz.utc)
 
